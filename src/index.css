@@ -1,0 +1,49 @@
+@import "tailwindcss";
+@import "./assets/fonts/cabinet-grotesk.css";
+@import "./assets/fonts/satoshi.css";
+
+body{
+  font-family: "Satoshi-Regular", sans-serif;
+  background-color: oklch(97.77% .0041 301.426);
+  
+  color: oklch(52.88% .0375 290.79);
+}
+
+
+.bodyText {
+  font-family: "Satoshi-Regular", sans-serif;
+  color:oklch(36.51% .0325 287.081);
+}
+
+.headLine{
+   font-family: "Satoshi-Bold", sans-serif;
+   font-weight: 500;
+  font-style: normal;
+  color:oklch(36.51% .0325 287.081);
+}
+
+
+
+.bodyTextBoldish {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-weight: 520;
+  font-style: normal;
+}
+
+.atkinson-hyperlegible-bold {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.atkinson-hyperlegible-regular-italic {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.atkinson-hyperlegible-bold-italic {
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
