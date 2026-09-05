@@ -1,10 +1,10 @@
 import { Project } from "typescript/unstable/sync";
 import "./index.css";
 import Carousel, { CarouselDemo } from "./Carousel";
-import ev1 from "./assets/images/evanty/ev1.png";
-import evanty from "./assets/images/evanty.png";
-import showmee from "./assets/images/showmee.png";
-import geodelim from "./assets/images/geodelim.png";
+import ev1 from "./assets/images/evanty/ev1.webp";
+import evanty from "./assets/images/evanty.webp";
+import showmee from "./assets/images/showmee.webp";
+import geodelim from "./assets/images/geodelim.webp";
 
 
 
